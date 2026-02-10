@@ -100,3 +100,7 @@ The project uses five realistic retail datasets:
 - SQL  
 - Python (for data generation)  
 - GitHub  
+
+---
+
+⭐ *If you found this project insightful, feel free to star the repository!*
